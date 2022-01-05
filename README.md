@@ -23,7 +23,7 @@ My goals with this "project" is to refine my programming skills, and build some 
 
 ### TODO
 - Move libraries into another base folder.
-- - With this new file structure, each folder doesn't need the P5 library. 
-- -  Update the base folder to match this new structure.
+  - With this new file structure, each folder doesn't need the P5 library. 
+  -  Update the base folder to match this new structure.
 - Create bash or shell to run python web server
-- - Test on Ubuntu and Windows
+  - Test on Ubuntu and Windows
