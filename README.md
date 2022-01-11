@@ -27,3 +27,8 @@ My goals with this "project" is to refine my programming skills, and build some 
   -  Update the base folder to match this new structure.
 - Create bash or shell to run python web server
   - Test on Ubuntu and Windows
+- Buildings
+  - Add Z coordinate the scales the movement speed of the building, to show depth.
+  - More realistic window colors
+- Rain
+  - Add drops when hitting the ground

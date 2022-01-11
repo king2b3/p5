@@ -5,7 +5,7 @@ let b;
 function setup() {
   createCanvas(800, 800);
   append(buildings, new Building(width+50));
-  b = new Building(width - 50);
+  b = new Building(width - 100);
 }
 
 function draw() {
@@ -13,6 +13,7 @@ function draw() {
   //translate(100,100);
   scroll();
   //test();
+  noLoop();
 
 }
 

@@ -24,10 +24,10 @@ class Building {
   }
     
   update(displacement){
-    if (this.x < -50){
+    if (this.x < -100){
       this.height = randomHeight();
       this.width = randomWidth();
-      this.x = 50 + width - this.width;
+      this.x = 100 + width - this.width;
       this.y = height - this.height;
       this.generateWindows();
     }
